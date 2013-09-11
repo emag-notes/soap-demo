@@ -67,3 +67,7 @@ $ java -jar $SOAP_DEMO/soap-demo-client/target/soap-demo-client.jar 1 2 3 4 5
 5
 ~~~
 
+## Reference
+
+* [wsprovide - JBoss Community](https://docs.jboss.org/author/display/JBWS/wsprovide)
+* [wsconsume - JBoss Community](https://docs.jboss.org/author/display/JBWS/wsconsume)

@@ -35,7 +35,7 @@ $ ./run.sh -c $PROFILE_NAME
 If you use EAP4.3_CP09 or earlier you have to do copy some JBoss libraries into $JBOSS_EAP43_HOME/lib/endorsed.
 
 ~~~
-$ cp $JBOSS_EAP43_PROFILE/{jboss-jaxrpc.jar,jboss-jaxws.jar,jboss-saaj.jar} $JBOSS_EAP43_HOME/lib/endorsed
+$ cp $JBOSS_EAP43_PROFILE/lib/{jboss-jaxrpc.jar,jboss-jaxws.jar,jboss-saaj.jar} $JBOSS_EAP43_HOME/lib/endorsed
 ~~~
 
 #### AS7/EAP6
